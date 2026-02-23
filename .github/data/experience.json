@@ -1,0 +1,35 @@
+{
+    "experiences": [
+        {
+            "company": "Thano Technologies",
+            "role": "Product Specialist",
+            "period": "Apr 2025 – Sekarang",
+            "contributions": [
+                "Mengembangkan dan mengonfigurasi solusi integrasi sistem untuk sektor transportasi, bandara, pertambangan, dan data center",
+                "Berperan sebagai Project Manager/Supervisor dalam perencanaan, eksekusi, dan pengawasan proyek",
+                "Berkolaborasi dengan tim teknis dan penjualan untuk menciptakan solusi yang sesuai dengan kebutuhan industri"
+            ]
+        },
+        {
+            "company": "Fazza Royal Yantasir Simulasi",
+            "role": "Electrical Engineer",
+            "period": "Sep 2020 – Mar 2025",
+            "contributions": [
+                "Melakukan riset dan pengembangan (R&D) sistem simulator berbasis mikrokontroler dan IoT",
+                "Mendesain dan membuat skematik serta layout PCB untuk sistem kontrol industri",
+                "Menangani troubleshooting, dokumentasi teknis, dan komunikasi dengan vendor manufaktur",
+                "Mengembangkan sistem otomatisasi dan perangkat kontrol untuk aplikasi industri dan pelatihan"
+            ]
+        },
+        {
+            "company": "SMKN 35 Jakarta",
+            "role": "Guru",
+            "period": "Sep 2019 – Aug 2020",
+            "contributions": [
+                "Mengajar mata pelajaran Microcontroller, Microprocessor, dan Engineering Drawing",
+                "Mengembangkan kurikulum berbasis proyek dan membimbing siswa dalam riset serta implementasi sistem elektronik",
+                "Mendorong kreativitas siswa melalui proyek berbasis mikrokontroler dan robotika"
+            ]
+        }
+    ]
+}
